@@ -24,8 +24,8 @@ remotes::install_github("deepanshu88/ShinyEditor")
 
 ## Steps
 
-You need `API` from [tiny](https://www.tiny.cloud/) to generate HTML
-editor. API is absolutely free, just Sign Up required. Once done, add
+You need `API` key from [tiny](https://www.tiny.cloud/) to generate HTML
+editor. API key is absolutely free, just Sign Up required. Once done, add
 the domains you wish to assign to your API key and click `Add domain`.
 This will get your domain approved. See the
 [instructions](https://www.tiny.cloud/blog/how-to-get-tinymce-cloud-up-in-less-than-5-minutes/)

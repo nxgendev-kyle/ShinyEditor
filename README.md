@@ -36,7 +36,6 @@ This is a basic example which shows you how to use this package:
 
 ``` r
 library(shiny)
-library(shinyjs)
 library(ShinyEditor)
 
 # UI

@@ -86,3 +86,4 @@ server <- function(input, output, session) {
 # Run App
 shinyApp(ui = ui, server = server)
 ```
+To know more about options to customise editor and update on client, check out the complete documentation of [ShinyEditor](https://www.listendata.com/2021/03/shinyeditor-rich-text-editor-in-shiny.html)

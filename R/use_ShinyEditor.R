@@ -15,7 +15,7 @@ use_editor <- function(API) {
         ),
         referrerpolicy = "origin"
       ),
-      shiny::tags$script(src = "ShinyEditor-assets/ShinyEditor.js"),
+      shiny::tags$script(src = "ShinyEditor/assets/ShinyEditor.js"),
       shiny::tags$script(
         "Shiny.addCustomMessageHandler('HTMLText', function(data) {
        eval(data.jscode)
